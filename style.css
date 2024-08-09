@@ -40,8 +40,13 @@ h3 {
 
 ol {
   background-color: lightblue;
+  padding-left: 50px;
 }
 
 section {
   align-items: center;
+}
+
+h3 {
+  padding-left: 50px;
 }/*# sourceMappingURL=style.css.map */
